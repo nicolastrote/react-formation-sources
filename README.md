@@ -12,3 +12,8 @@ Summary of tutorials for JS, REACT, REDUX, stacks  ...
  
 ## CODE
  *   https://github.com/b-ff/react-reminder-pro
+
+
+
+nb:
+https://gist.github.com/christiangenco/a91c6d7164f2e0bc6a3a
