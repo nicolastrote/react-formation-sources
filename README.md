@@ -6,6 +6,7 @@ Summary of tutorials for JS, REACT, REDUX, stacks  ...
  
 ## REACT
  * https://egghead.io/lessons/react-build-and-deploy-a-react-application  (videos)
+ * https://egghead.io/courses/getting-started-with-redux  (videos)
 
 ## REACT REDUX
  * https://www.udemy.com/react-js-and-redux-mastering-web-apps/   (videos)
