@@ -16,5 +16,5 @@ Summary of tutorials for JS, REACT, REDUX, stacks  ...
 
 
 
-nb:
-https://gist.github.com/christiangenco/a91c6d7164f2e0bc6a3a
+#### tool:
+`youtube-dl -o "%(autonumber)s-%(title)s.%(ext)s" -a list.txt`
