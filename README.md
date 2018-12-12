@@ -1,4 +1,4 @@
-# react_fornation
+# react_formation
 Summary of tutorials for JS, REACT, REDUX, stacks  ...
 
 ## JAVASCRIPT
