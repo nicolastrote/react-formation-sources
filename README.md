@@ -1,4 +1,4 @@
-# react_formation
+# react-formation-sources
 Summary of tutorials for JS, REACT, REDUX, stacks  ...
 
 ## JAVASCRIPT
